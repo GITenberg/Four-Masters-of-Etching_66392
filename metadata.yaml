@@ -1,0 +1,31 @@
+_repo: Four-Masters-of-Etching_66392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wedmore, Frederick, Sir
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '53789'
+    url: http://www.gutenberg.org/2009/agents/53789
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Wedmore
+description: ''
+gutenberg_issued: '2021-09-27'
+identifiers:
+  gutenberg: '66392'
+  lccn: '11020674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legros, Alphonse, 1837-1911'
+- !lcsh 'Etching -- 19th century'
+- !lcsh 'Haden, Francis Seymour, 1818-1910'
+- !lcc 'NE'
+- !lcsh 'Jacquemart, Jules-Ferdinand, 1837-1880'
+- !lcsh 'Whistler, James McNeill, 1834-1903'
+- GITenberg
+tableOfContents: Seymour Haden -- Jules Jacquemart -- J.A.M. Whistler -- Alphonse
+  Legros.
+title: Four Masters of Etching
+url: http://www.gutenberg.org/ebooks/66392
